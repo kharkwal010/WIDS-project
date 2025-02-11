@@ -1,10 +1,11 @@
-# Project Report: Computer Vision Applications - January 2025
+# Project Report: 
+Computer Vision Applications - January 2025
 # Duration: 
 December 10, 2024 - January 10, 2025
 # Overview:
 This report summarizes a series of computer vision projects developed using Python and libraries such as OpenCV, Mediapipe, NumPy, and PyAutoGUI. The core of this work involved creating custom modules to streamline hand and pose detection, which then served as the foundation for building interactive and practical applications. These projects demonstrate a range of capabilities, including real-time interaction with computer systems.
-Key Modules Developed:
-Hand Detection Module:
+# Key Modules Developed:
+## Hand Detection Module:
 Purpose: To create a reusable component for detecting and tracking hands in video streams.
 Function:
 Utilizes Mediapipe to detect hands within a video frame.
